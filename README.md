@@ -1,2 +1,5 @@
 # hello-world
-Test repository
+
+Hey everyone
+
+Learning to programme and show everyone how far I've come!
